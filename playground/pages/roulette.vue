@@ -64,7 +64,7 @@
 </template>
 
 <script setup>
-const menuList = ref(['삼겹살', '치킨', '피자', '마라탕', '파스타', '국밥']);
+const menuList = ref(['삼겹살', '치킨', '피자', '마라탕', '파스타', '국밥', '신전떡볶이', '굶기']);
 const currentMenu = ref('메뉴를 골라보세요');
 const newMenu = ref('');
 const isSpinning = ref(false);
